@@ -1,1 +1,1 @@
-print("test from local to cloud")
+print("test from loud")
