@@ -1,0 +1,3 @@
+using smaract picoscale interferometer, 2 thorlabs motors (X,Y)
+snake scans of different area sizes, step sizes, and surfaces
+surfaces were reconstructed using python 
