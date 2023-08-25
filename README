@@ -1,4 +1,4 @@
-The Realm project was to characterize the displacement of a new piezoelectric device to determine if it has potential applications in adaptive optics for the Advanced Light Source.
+My task was to characterize the displacement of a new piezoelectric device to determine if it has potential applications in adaptive optics for the Advanced Light Source.
 The ALS is basically a giant X-ray laser that scientists can use to examine samples.
 To characterize the piezoelectric device, I deployed a new instrument controls and data acquisition framework called EPICS. I also created a test bench where I used a laser interferometer to measure the displacement of the device with high precision.
 Overall, my work was the first step in developing adaptive optics specific for the ALS.
